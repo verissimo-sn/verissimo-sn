@@ -44,10 +44,10 @@
 	<table>
 		<tr>
 			<td>
-				<img width="400px" height="165em" align="left" src="https://github-readme-stats.vercel.app/api?username=verissimo-sn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+				<img height="165em" align="left" src="https://github-readme-stats.vercel.app/api?username=verissimo-sn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 			</td>
 			<td>
-				<img width="490px" height="165em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verissimo-sn&layout=compact&langs_count=7&theme=tokyonight"/>
+				<img height="165em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verissimo-sn&layout=compact&langs_count=7&theme=tokyonight"/>
 			</td>
 		</tr>
 	</table>
