@@ -3,8 +3,6 @@
 
 ## 👾 Technologies I really like
 
-<br/>
-
 ### Backend
 
 [![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
