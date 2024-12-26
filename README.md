@@ -52,7 +52,3 @@
 </center>
 
 <br/>
-
-## 🐍 This is my contribution graph eaten by the snake
-
-<img src="https://github.com/verissimo-sn/verissimo-sn/blob/output/github-contribution-grid-snake.gif" align="center" />
